@@ -1,3 +1,7 @@
+body {
+    background-color: #e66b4d;
+}
+
 p, h3 {
     color: #f5ecda;
 
@@ -17,7 +21,6 @@ nav p {
     width: 100%;
     align-self: center;
     display: block;
-    margin: 25% 0 0 45%;
     
 }
 
