@@ -1,0 +1,28 @@
+p, h3 {
+    color: #f5ecda;
+
+}
+
+h3 {
+    font-family: 'Limelight', cursive;
+}
+
+
+nav p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.orange-main-c {
+    width: 100%;
+    align-self: center;
+    display: block;
+    margin: 25% 0 0 45%;
+    
+}
+
+.orange-main-c hr {
+    border-width: 3px;
+    border-color: #f5ecda;
+    border-radius: 1px;
+}
